@@ -31,20 +31,22 @@ Razer Merchant Services React Native payment module that is ready to be implemen
 [Installation](https://github.com/FiuuPayment/Mobile-XDK-Fiuu_React_Native/wiki/Installation-Guide)
 
 
-Resources
-GitHub: https://github.com/FiuuPayment
-Website: https://fiuu.com/
-Twitter: https://twitter.com/FiuuPayment
-YouTube: https://www.youtube.com/@FiuuPayment
-Facebook: https://www.facebook.com/FiuuPayment/
-Instagram: https://www.instagram.com/FiuuPayment/
-Support
+## Resources
+- GitHub: https://github.com/FiuuPayment
+- Website: https://fiuu.com/
+- Twitter: https://twitter.com/FiuuPayment
+- YouTube: https://www.youtube.com/@FiuuPayment
+- Facebook: https://www.facebook.com/FiuuPayment/
+- Instagram: https://www.instagram.com/FiuuPayment/
+
+
+## Support
 Submit issue to this repository or email to our support@fiuu.com
 
-Merchant Technical Support / Customer Care : support@fiuu.com
-Sales/Reseller Enquiry : sales@fiuu.com
-Marketing Campaign : marketing@fiuu.com
-Channel/Partner Enquiry : channel@fiuu.com
-Media Contact : media@fiuu.com
-R&D and Tech-related Suggestion : technical@fiuu.com
-Abuse Reporting : abuse@fiuu.com
+- Merchant Technical Support / Customer Care : support@fiuu.com
+- Sales/Reseller Enquiry : sales@fiuu.com
+- Marketing Campaign : marketing@fiuu.com
+- Channel/Partner Enquiry : channel@fiuu.com
+- Media Contact : media@fiuu.com
+- R&D and Tech-related Suggestion : technical@fiuu.com
+- Abuse Reporting : abuse@fiuu.com
